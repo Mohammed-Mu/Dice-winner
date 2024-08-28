@@ -26,7 +26,7 @@
 
 ## Preview
 
-![Dice Duel Preview]([images/dice-duel-preview.png](https://mohammed-mu.github.io/Dice-winner/)
+![Dice Duel Preview](https://mohammed-mu.github.io/Dice-winner/)
 
 ## Installation
 
