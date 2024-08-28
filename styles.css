@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -20,6 +19,23 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+}
+
+.roll-button {
+  display: block;
+  margin: 20px auto; /* Centers the button horizontally */
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  font-family: 'Indie Flower', cursive;
+  color: #EEEEEE;
+  background-color: #4ECCA3;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.roll-button:hover {
+  background-color: #3da68b;
 }
 
 p {
@@ -37,5 +53,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
